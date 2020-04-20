@@ -1,0 +1,101 @@
+:root {
+    --bggradient: linear-gradient(to right, #bdc3c7, #2c3e50);
+    --gradient: linear-gradient(to right, #008040, #00bf60);
+}
+
+
+
+.form-row img {
+    width: 200px;
+    height: 200px;
+    margin-left: 85px;
+}
+
+.logout i {
+    color: white;
+    left: 0px;
+}
+
+.container {
+    margin-top: 75px;
+    padding-top: 100px;
+    background: black;
+    border-radius: 3px;
+
+
+
+
+    position: absolute;
+    top: 7vmin;
+    left: 5em;
+    right: 5em;
+
+
+    padding: 13vmin 3vmin 15vmin 4vmin;
+    box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.7);
+    font-family: 'Montserrat', sans-serif;
+    z-index: 1;
+}
+
+.container i {
+
+    background: -webkit-linear-gradient(#008040, #00bf60);
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+    text-align: center;
+    align-content: center;
+
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.container h4 {
+    text-align: center;
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 2px;
+}
+
+.container button {
+    background: var(--gradient);
+
+    padding: 5px 5px;
+    border-radius: 30px;
+    margin-left: 500px;
+    font-weight: bold;
+    color: black;
+}
+
+button {
+
+    margin: 5px 0 25px;
+
+}
+
+
+
+body {
+    background: var(--gradient);
+
+}
+
+input.styled-checkbox {
+    width: 15px;
+    height: 15px;
+    border-radius: 7px;
+
+
+}
+
+.check {
+    margin-left: 105px;
+
+}
+
+.check label {
+    color: white;
+}

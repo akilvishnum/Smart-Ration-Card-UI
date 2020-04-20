@@ -1,0 +1,226 @@
+.rice {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.rice {
+    background: grey;
+    padding: 3em 0em;
+}
+
+.sk {
+    background: #003300;
+    padding: 5em 0em;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+body {
+    background: grey;
+}
+
+.sk h1 {
+    color: white;
+    text-align: center;
+}
+
+.wheat {
+    background: black;
+    font-family: 'Montserrat', sans-serif;
+    padding: 5em 0em;
+}
+
+body h1 {
+    color: black;
+    text-align: center;
+}
+
+.wheat h1 {
+    color: white;
+    text-align: center;
+}
+
+.rice .row .col-md-3 .card {
+
+    width: 22em;
+    margin-top: 2px;
+    margin-left: 2em;
+    margin-right: 2em;
+    width: 80%;
+    background: black;
+    color: white;
+    box-shadow: 0px 2px black;
+
+
+}
+
+
+.rice .row .col-md-3 .card .card-title {
+    text-align: center;
+    padding: 1px 2px;
+
+}
+
+.rice .row .col-md-3 .card .card-text {
+    text-align: left;
+    padding: 1px 2px;
+    opacity: 0.8;
+}
+
+.rice .row .col-md-3 .card .list-group-item {
+    background: black;
+    color: white;
+    font-size: 22px;
+}
+
+
+/* wheat */
+.wheat .row .col-md-3 .card {
+
+    width: 22em;
+    margin-top: 2px;
+    margin-left: 2em;
+    margin-right: 2em;
+    width: 80%;
+    background: white;
+    color: black;
+    box-shadow: 0px 2px black;
+
+
+}
+
+
+.wheat .row .col-md-3 .card .card-title {
+    text-align: center;
+    padding: 1px 2px;
+
+}
+
+.wheat .row .col-md-3 .card .card-text {
+    text-align: left;
+    padding: 1px 2px;
+    opacity: 0.8;
+}
+
+.wheat .row .col-md-3 .card .list-group-item {
+    background: white;
+    color: black;
+    font-size: 22px;
+}
+
+/*sk*/
+.sk .row .col-md-3 .card {
+
+    width: 22em;
+    margin-top: 2px;
+    margin-left: 2em;
+    margin-right: 2em;
+    width: 80%;
+    background: black;
+    color: white;
+    box-shadow: 0px 2px black;
+
+
+}
+
+
+.sk .row .col-md-3 .card .card-title {
+    text-align: center;
+    padding: 1px 2px;
+
+}
+
+.sk .row .col-md-3 .card .card-text {
+    text-align: left;
+    padding: 1px 2px;
+    opacity: 0.8;
+}
+
+.sk .row .col-md-3 .card .list-group-item {
+    background: black;
+    color: white;
+    font-size: 22px;
+}
+
+header a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9em;
+    color: black;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+header .nav-item:last-child {
+    padding-right: 10.5em;
+}
+
+header .nav-item {
+    padding: 0.9em;
+}
+
+header .navbar-brand {
+    padding-left: 8rem;
+}
+
+header .nav-link:hover {
+    color: black;
+}
+
+header .row .col-md-7 {
+    padding: 22vmin 1vmin;
+    padding-bottom: 35vmin;
+}
+
+header .row .col-md-5 {
+    padding: 4.2vmin 1vmin;
+}
+
+header .row .col-md-5 img {
+    width: 90%;
+}
+
+
+header .container .col-md-7 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header .container .col-md-7 h6 {
+    padding: 1vmin;
+    letter-spacing: 4px;
+}
+
+header .container .col-md-7 h1 {
+    font-size: 8.5vmin;
+    font-weight: bold;
+    padding: 0.1em 0em;
+}
+
+header .container .col-md-7 p {
+    padding: 1vmin 5vmin;
+}
+
+.primary-btn {
+    border-radius: 30px;
+    font-weight: bold;
+}
