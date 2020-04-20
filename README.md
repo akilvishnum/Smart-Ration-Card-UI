@@ -2,7 +2,7 @@
 Smart Ration Card System ( User Interface Components )
 
 ## Description:
-Web Application to *issue and use Ration card* online which helps users to *find & buy goods* online :money_with_wings:. This helps to reduce ration shop scam and makes ration shop system transparent :heavy_check_mark:.
+Web Application to *issue and use Ration card* which helps users to *find & buy goods* online :money_with_wings:. This helps to reduce ration shop scam and makes ration shop system transparent :heavy_check_mark:.
 
 ## Other modules of the Applications:
 * Users can login and signup (sessions are created to ensure smooth experience)
